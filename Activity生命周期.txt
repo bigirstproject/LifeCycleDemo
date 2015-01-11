@@ -1,0 +1,68 @@
+打开activity  生命周期：
+
+01-10 22:34:55.807: D/DwLog(19563): onCreate:
+01-10 22:34:55.807: D/DwLog(19563): onStart:
+01-10 22:34:55.807: D/DwLog(19563): onPostCreate:
+01-10 22:34:55.807: D/DwLog(19563): onResume:
+01-10 22:34:55.897: D/DwLog(19563): onCreateOptionsMenu:
+-> 退出 
+01-10 22:35:06.437: D/DwLog(19563): onPause:
+01-10 22:35:06.997: D/DwLog(19563): onStop:
+01-10 22:35:06.997: D/DwLog(19563): onDestroy:
+
+
+打开activity   生命周期：
+01-10 22:35:55.847: D/DwLog(19563): onCreate:
+01-10 22:35:55.847: D/DwLog(19563): onStart:
+01-10 22:35:55.847: D/DwLog(19563): onPostCreate:
+01-10 22:35:55.847: D/DwLog(19563): onResume:
+01-10 22:35:55.917: D/DwLog(19563): onCreateOptionsMenu:
+-> home键 (锁屏键)
+01-10 22:36:00.587: D/DwLog(19563): onPause:
+01-10 22:36:01.147: D/DwLog(19563): onCreateDescription: 
+01-10 22:36:01.147: D/DwLog(19563): onSaveInstanceState:
+01-10 22:36:01.147: D/DwLog(19563): onStop:
+-> 再打开
+01-10 22:37:25.627: D/DwLog(19563): onReStart:
+01-10 22:37:25.627: D/DwLog(19563): onStart:
+01-10 22:37:25.627: D/DwLog(19563): onResume:
+-> 退出  
+01-10 22:38:05.127: D/DwLog(19563): onPause:
+01-10 22:38:05.677: D/DwLog(19563): onStop:
+01-10 22:38:05.677: D/DwLog(19563): onDestroy:
+	
+	
+打开activity   生命周期：
+01-10 22:40:26.867: D/DwLog(19563): onCreate:
+01-10 22:40:26.867: D/DwLog(19563): onStart:
+01-10 22:40:26.867: D/DwLog(19563): onPostCreate:
+01-10 22:40:26.867: D/DwLog(19563): onResume:
+01-10 22:40:26.957: D/DwLog(19563): onCreateOptionsMenu:
+->旋转屏幕 （横屏）
+01-10 22:40:41.437: D/DwLog(19563): onPause:
+01-10 22:40:41.457: D/DwLog(19563): onSaveInstanceState:
+01-10 22:40:41.457: D/DwLog(19563): onStop:
+01-10 22:40:41.457: D/DwLog(19563): onRetainCustomNonConfigurationInstance:
+01-10 22:40:41.457: D/DwLog(19563): onDestroy:
+01-10 22:40:41.527: D/DwLog(19563): onCreate:
+01-10 22:40:41.527: D/DwLog(19563): onStart:
+01-10 22:40:41.527: D/DwLog(19563): onRestoreInstanceState:
+01-10 22:40:41.527: D/DwLog(19563): onPostCreate:
+01-10 22:40:41.527: D/DwLog(19563): onResume:
+01-10 22:40:41.557: D/DwLog(19563): onCreateOptionsMenu:
+->再旋转屏幕 （竖屏）
+01-10 22:40:56.137: D/DwLog(19563): onPause:
+01-10 22:40:56.157: D/DwLog(19563): onSaveInstanceState:
+01-10 22:40:56.157: D/DwLog(19563): onStop:
+01-10 22:40:56.157: D/DwLog(19563): onRetainCustomNonConfigurationInstance:
+01-10 22:40:56.157: D/DwLog(19563): onDestroy:
+01-10 22:40:56.207: D/DwLog(19563): onCreate:
+01-10 22:40:56.207: D/DwLog(19563): onStart:
+01-10 22:40:56.207: D/DwLog(19563): onRestoreInstanceState:
+01-10 22:40:56.207: D/DwLog(19563): onPostCreate:
+01-10 22:40:56.207: D/DwLog(19563): onResume:
+01-10 22:40:56.227: D/DwLog(19563): onCreateOptionsMenu:
+-> 退出  
+01-10 22:40:05.127: D/DwLog(19563): onPause:
+01-10 22:40:05.677: D/DwLog(19563): onStop:
+01-10 22:40:05.677: D/DwLog(19563): onDestroy:
